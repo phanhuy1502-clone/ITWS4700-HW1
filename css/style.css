@@ -1,0 +1,25 @@
+.parallax-container {
+    height: 400px;
+  }
+
+.big{
+    height: 700px;
+ }
+
+ p {
+ 	font-size: 18px;
+ }
+
+ div#home {
+ 	display: inline;
+ 	position: fixed;
+ 	bottom: 60px;
+ 	right: 60px;
+ 	z-index: 2;
+ }
+
+ .card {
+ 	width: 45%;
+ 	display: inline-block;
+ 	margin: 2%;
+ }
